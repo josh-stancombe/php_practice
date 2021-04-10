@@ -1,2 +1,4 @@
 # php_practice
- Python concepts and practice 
+PHP concepts - playing around with concepts / lessons learned in PHP.
+
+1. PHP Calculator: Language basics
